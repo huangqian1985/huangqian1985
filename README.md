@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangqian1985&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huangqian1985&count_private=true&show_icons=true&theme=blueberry&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangqian1985&repo=convoychat" />
+</a>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huangqian1985&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huangqian1985&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huangqian1985&theme=github)
