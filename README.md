@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangqian1985?count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huangqian1985&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huangqian1985&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huangqian1985&theme=github)
