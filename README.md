@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangqian1985&repo=gf" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangqian1985)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangqian1985&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huangqian1985&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huangqian1985&theme=github)
